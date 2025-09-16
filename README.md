@@ -81,7 +81,7 @@ The project combines **SQL for data analysis** and **Tableau for visualization**
 
 | Order Date vs Sales | Tableau Dashboard Snapshot |  
 |---------------------|----------------------------|  
-| ![OrderDate](Orderdate%20vs%20Sales.png) | ![Dashboard](Retail_Profitability_Dashboard.twbx) |  
+| ![OrderDate](Orderdate%20vs%20Sales.png) 
 
 ---
 
